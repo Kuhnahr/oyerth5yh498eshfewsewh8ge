@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dorrepaal Tour</string>
+    <string name="start_text">Dorrepaal\nTour</string>
+    <string name="start_button">Start Tour</string>
+    <string name="info_button">Informatie</string>
+
+    <string name="head_houtwerk_en_erf">Houtwerkplaats + erf</string>
+    <string name="houtwerk_en_erf">Voor veel mensen was de laatste keer tijdens handarbeid op de lagere school. Middin geeft de cliënten een mooie kans om uw handvaardigheid op een originele manier op de proef te stellen tijdens een inspirerende workshop houtbewerking.</string>
+
+    <string name="head_theetuin">De theetuin</string>
+    <string name="theetuin">Je kunt hier koffie, thee, chocolademelk of frisdrank drinken met een lekkere koek of tosti erbij.</string>
+    <string name="head_weide">Weide</string>
+    <string name="weide">Op een buitengoed horen dieren, en er is dan ook een mooie dierenweide op Dorrepaal. Daar wonen geiten, schapen, kippen, cavia’s, konijnen, ganzen en parkieten. En ook twee bijzondere Kunekune-varkens genaamd Geer en Goor.</string>
+</resources>
